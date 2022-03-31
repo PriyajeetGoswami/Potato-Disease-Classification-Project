@@ -1,0 +1,2 @@
+# Potato-Disease-Classification-Project
+End-to-end project to detect early and late blight conditions in potato plant by analysing images of leaves using supervised learning. We use CNN for model building in this project. Blight is a big problem in potato agriculture which leads to heavy losses for farmers. Hence, we design an end-to-end solution for farmers to detect blight in potato plants to prevent losses.
