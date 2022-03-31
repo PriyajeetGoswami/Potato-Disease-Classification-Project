@@ -12,7 +12,7 @@ This project would not have possible without the guidance and mentorship of Mr.D
 | Model building | Tensorflow, CNN, data augumentation, tf dataset |
 | Backend Server | tf serving, FastAPI |
 | Model Optimization | Quantization, TensorFlow Lite |
-| Frontend & Deployment | Reat JS, React Native, Deployment to GCP |
+| Frontend & Deployment | React JS, React Native, Deployment to GCP |
 
 ## Setup for Python:
 
